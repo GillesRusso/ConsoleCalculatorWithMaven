@@ -22,7 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="" />
+    <list default="true" id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/02_ConsoleCalculatorWithMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -117,6 +130,7 @@
       <workItem from="1623229391958" duration="1821000" />
       <workItem from="1623237657168" duration="604000" />
       <workItem from="1624438009176" duration="396000" />
+      <workItem from="1624438629949" duration="359000" />
     </task>
     <servers />
   </component>
@@ -136,6 +150,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624438774495">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="499" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.1000@0.0.1500.1000" timestamp="1624438774495" />
     <state width="1502" height="276" key="GridCell.Tab.0.bottom" timestamp="1623232616908">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
@@ -156,6 +174,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="231" y="74" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1621417517760" />
+    <state x="416" y="213" key="git4idea.branch.GitSmartOperationDialog" timestamp="1624438795491">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="416" y="213" key="git4idea.branch.GitSmartOperationDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1624438795491" />
     <state x="409" y="232" width="672" height="677" key="run.anything.popup" timestamp="1621417755017">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
