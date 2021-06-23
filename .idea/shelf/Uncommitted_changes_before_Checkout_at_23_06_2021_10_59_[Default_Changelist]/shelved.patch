@@ -1,0 +1,397 @@
+Index: .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(date 1624438289782)
++++ .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(date 1624438289782)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: target/surefire-reports/TEST-ch.bbw.gr.AppTest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/surefire-reports/TEST-ch.bbw.gr.AppTest.xml	(date 1621417760398)
++++ target/surefire-reports/TEST-ch.bbw.gr.AppTest.xml	(date 1621417760398)
+@@ -0,0 +1,60 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ch.bbw.gr.AppTest" time="0.04" tests="1" errors="0" skipped="0" failures="0">
++  <properties>
++    <property name="java.specification.version" value="14"/>
++    <property name="sun.cpu.isalist" value="amd64"/>
++    <property name="sun.jnu.encoding" value="Cp1252"/>
++    <property name="java.class.path" value="C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\target\test-classes;C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\target\classes;C:\Users\russo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\russo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
++    <property name="java.vm.vendor" value="Oracle Corporation"/>
++    <property name="sun.arch.data.model" value="64"/>
++    <property name="user.variant" value=""/>
++    <property name="java.vendor.url" value="https://java.oracle.com/"/>
++    <property name="user.timezone" value="Europe/Zurich"/>
++    <property name="os.name" value="Windows 10"/>
++    <property name="java.vm.specification.version" value="14"/>
++    <property name="sun.java.launcher" value="SUN_STANDARD"/>
++    <property name="user.country" value="CH"/>
++    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
++    <property name="sun.java.command" value="C:\Users\russo\AppData\Local\Temp\surefire15713291093090971425\surefirebooter2317398737854407467.jar C:\Users\russo\AppData\Local\Temp\surefire15713291093090971425 2021-05-19T11-49-19_138-jvmRun1 surefire3305277650652718954tmp surefire_04614566942283362892tmp"/>
++    <property name="jdk.debug" value="release"/>
++    <property name="surefire.test.class.path" value="C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\target\test-classes;C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\target\classes;C:\Users\russo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\russo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
++    <property name="sun.cpu.endian" value="little"/>
++    <property name="user.home" value="C:\Users\russo"/>
++    <property name="user.language" value="de"/>
++    <property name="java.specification.vendor" value="Oracle Corporation"/>
++    <property name="java.version.date" value="2020-07-14"/>
++    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.2"/>
++    <property name="file.separator" value="\"/>
++    <property name="basedir" value="C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven"/>
++    <property name="java.vm.compressedOopsMode" value="32-bit"/>
++    <property name="line.separator" value="&#10;"/>
++    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
++    <property name="java.specification.name" value="Java Platform API Specification"/>
++    <property name="surefire.real.class.path" value="C:\Users\russo\AppData\Local\Temp\surefire15713291093090971425\surefirebooter2317398737854407467.jar"/>
++    <property name="user.script" value=""/>
++    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
++    <property name="java.runtime.version" value="14.0.2+12-46"/>
++    <property name="user.name" value="russo"/>
++    <property name="path.separator" value=";"/>
++    <property name="os.version" value="10.0"/>
++    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
++    <property name="file.encoding" value="Cp1252"/>
++    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
++    <property name="localRepository" value="C:\Users\russo\.m2\repository"/>
++    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
++    <property name="java.io.tmpdir" value="C:\Users\russo\AppData\Local\Temp\"/>
++    <property name="idea.version" value="2020.2"/>
++    <property name="java.version" value="14.0.2"/>
++    <property name="user.dir" value="C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven"/>
++    <property name="os.arch" value="amd64"/>
++    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
++    <property name="sun.os.patch.level" value=""/>
++    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-13.0.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\russo\AppData\Local\Microsoft\WindowsApps;c:\Program Files\Java\jdk1.8.0_221\bin;C:\Users\russo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\russo\AppData\Local\GitHubDesktop\bin;C:\Users\russo\AppData\Roaming\npm;."/>
++    <property name="java.vm.info" value="mixed mode, sharing"/>
++    <property name="java.vendor" value="Oracle Corporation"/>
++    <property name="java.vm.version" value="14.0.2+12-46"/>
++    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
++    <property name="java.class.version" value="58.0"/>
++  </properties>
++  <testcase name="shouldAnswerWithTrue" classname="ch.bbw.gr.AppTest" time="0.002"/>
++</testsuite>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(date 1624438289735)
++++ .idea/compiler.xml	(date 1624438289735)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <bytecodeTargetLevel>
++      <module name="02_ConsoleCalculatorWithMaven" target="1.7" />
++    </bytecodeTargetLevel>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/02_ConsoleCalculatorWithMaven.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/02_ConsoleCalculatorWithMaven.iml	(date 1624438289704)
++++ .idea/02_ConsoleCalculatorWithMaven.iml	(date 1624438289704)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module version="4">
++  <component name="ExternalSystem" externalSystem="Maven" />
++</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1624438300128)
++++ .idea/modules.xml	(date 1624438300128)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/02_ConsoleCalculatorWithMaven.iml" filepath="$PROJECT_DIR$/.idea/02_ConsoleCalculatorWithMaven.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1624438289750)
++++ .idea/misc.xml	(date 1624438289750)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__junit_junit_4_11.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__junit_junit_4_11.xml	(date 1624438289782)
++++ .idea/libraries/Maven__junit_junit_4_11.xml	(date 1624438289782)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: junit:junit:4.11">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst	(date 1621417758519)
++++ target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst	(date 1621417758519)
+@@ -0,0 +1,1 @@
++C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\src\test\java\ch\bbw\gr\AppTest.java
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1624438634503)
++++ .idea/workspace.xml	(date 1624438634503)
+@@ -0,0 +1,168 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="MavenImportPreferences">
++    <option name="generalSettings">
++      <MavenGeneralSettings>
++        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
++      </MavenGeneralSettings>
++    </option>
++  </component>
++  <component name="ProjectId" id="1skUsM7X4lSGlYj6iQbAKtPDw5t" />
++  <component name="ProjectViewState">
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="aspect.path.notification.shown" value="true" />
++    <property name="nodejs_package_manager_path" value="npm" />
++    <property name="project.structure.last.edited" value="Project" />
++    <property name="project.structure.proportion" value="0.15" />
++    <property name="project.structure.side.proportion" value="0.2" />
++  </component>
++  <component name="RunAnythingCache">
++    <option name="myCommands">
++      <command value="mvn test" />
++    </option>
++  </component>
++  <component name="RunManager" selected="JUnit.AppTest">
++    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch.bbw.gr.App" />
++      <module name="02_ConsoleCalculatorWithMaven" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch.bbw.gr.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="02_ConsoleCalculatorWithMaven" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch.bbw.gr.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="ch.bbw.gr" />
++      <option name="MAIN_CLASS_NAME" value="ch.bbw.gr.AppTest" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="JUnit.AppTest" />
++        <item itemvalue="Application.App" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="" />
++      <created>1621416287168</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1621416287168</updated>
++      <workItem from="1621416288249" duration="1627000" />
++      <workItem from="1621422106048" duration="12000" />
++      <workItem from="1622017839357" duration="2236000" />
++      <workItem from="1622025333545" duration="10000" />
++      <workItem from="1622626997639" duration="598000" />
++      <workItem from="1622630797094" duration="234000" />
++      <workItem from="1623229391958" duration="1821000" />
++      <workItem from="1623237657168" duration="604000" />
++      <workItem from="1624438009176" duration="396000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state width="1502" height="276" key="GridCell.Tab.0.bottom" timestamp="1623232616908">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state width="1502" height="276" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1623232616908" />
++    <state width="1502" height="276" key="GridCell.Tab.0.center" timestamp="1623232616908">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state width="1502" height="276" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1623232616908" />
++    <state width="1502" height="276" key="GridCell.Tab.0.left" timestamp="1623232616907">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state width="1502" height="276" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1623232616907" />
++    <state width="1502" height="276" key="GridCell.Tab.0.right" timestamp="1623232616908">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state width="1502" height="276" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1623232616908" />
++    <state x="231" y="74" key="SettingsEditor" timestamp="1621417517760">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state x="231" y="74" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1621417517760" />
++    <state x="409" y="232" width="672" height="677" key="run.anything.popup" timestamp="1621417755017">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state x="409" y="232" width="672" height="677" key="run.anything.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1621417755017" />
++    <state x="413" y="216" width="672" height="678" key="search.everywhere.popup" timestamp="1624438057897">
++      <screen x="0" y="0" width="1500" height="1000" />
++    </state>
++    <state x="413" y="216" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1624438057897" />
++  </component>
++</project>
+\ No newline at end of file
+Index: target/surefire-reports/ch.bbw.gr.AppTest.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/surefire-reports/ch.bbw.gr.AppTest.txt	(date 1621417760392)
++++ target/surefire-reports/ch.bbw.gr.AppTest.txt	(date 1621417760392)
+@@ -0,0 +1,4 @@
++-------------------------------------------------------------------------------
++Test set: ch.bbw.gr.AppTest
++-------------------------------------------------------------------------------
++Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in ch.bbw.gr.AppTest
+Index: target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst	(date 1621417758106)
++++ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst	(date 1621417758106)
+@@ -0,0 +1,1 @@
++C:\Users\russo\Documents\BBW\2.Jahr\Neuer Ordner\Rutschmann\02_ConsoleCalculatorWithMaven\src\main\java\ch\bbw\gr\App.java
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1624438634644)
++++ .idea/vcs.xml	(date 1624438634644)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
