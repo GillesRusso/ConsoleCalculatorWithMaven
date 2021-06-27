@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="" />
+    <list default="true" id="2c7520c6-c5c7-4f40-b49e-e639fb77cc7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="02_ConsoleCalculatorWithMaven" />
       <extension name="coverage">
@@ -124,7 +137,10 @@
       <workItem from="1624438009176" duration="396000" />
       <workItem from="1624438629949" duration="496000" />
       <workItem from="1624439152038" duration="22000" />
-      <workItem from="1624439493497" duration="921000" />
+      <workItem from="1624439493497" duration="1515000" />
+      <workItem from="1624442083831" duration="24000" />
+      <workItem from="1624445914234" duration="9000" />
+      <workItem from="1624811611034" duration="534000" />
     </task>
     <servers />
   </component>
@@ -144,6 +160,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="501" y="324" key="#Notifications" timestamp="1624442097376">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="501" y="324" key="#Notifications/0.0.1500.1000@0.0.1500.1000" timestamp="1624442097376" />
     <state x="499" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624438774495">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
